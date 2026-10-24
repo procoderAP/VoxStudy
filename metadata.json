@@ -1,0 +1,6 @@
+{
+  "name": "VoxStudy - BITS Pilani Dubai Audio & AI Notes",
+  "description": "AI audio player and study companion for BITS Pilani Dubai students with karaoke text tracking, Ask a Doubt tutor, and unlimited narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
